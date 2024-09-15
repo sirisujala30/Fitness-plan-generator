@@ -14,7 +14,7 @@ The Dynamic Fitness Plan Generator is designed to create personalized workout pl
 - relevant_data_fetch.py : this scrip handles the fetching relevant real-time user fitbit data that is required for the task
 - workout_generator.py : the cofe file that generated personalized workout plans using Gen AI
 - Documentation.pdf : this file contains the overview, functionality, workflow and tech stack of the task. It also explains the challenges and assumptions taken.
-- working_video.mp4 : a demonstration of the working code and the generated output
+- working video.mp4 : a demonstration of the working code and the generated output
 
 
 ## Prerequisites
