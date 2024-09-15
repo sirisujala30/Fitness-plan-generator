@@ -40,4 +40,4 @@ os.environ["API_KEY"] = "your_google_api_key"
 
 ## Usage
 ```bash
-strealmit run workout_generator.py
+streamlit run workout_generator.py
