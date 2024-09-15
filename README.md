@@ -1,6 +1,6 @@
 # Fitness-plan-generator
 
-## Overview: 
+## Overview
 The Dynamic Fitness Plan Generator is designed to create personalized workout plans using real-time data from wearable devices such as Fitbit. It dynamically adjusts the user's workout routine based on their performance data, such as steps taken, calories burned, sleep patterns, and nutrition intake. The system leverages Fitbit's API for retrieving fitness data and Google Generative AI for generating customized workout plans based on user goals, preferences, and available data.
 
 ## Features
@@ -24,8 +24,9 @@ The Dynamic Fitness Plan Generator is designed to create personalized workout pl
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/sirisujala30/fitness-plan-generator.git
+```bash
+git clone https://github.com/sirisujala30/fitness-plan-generator.git
+```
 
 ## Configuration
 1. Replace your Fitbit API token in the code:
@@ -41,3 +42,4 @@ os.environ["API_KEY"] = "your_google_api_key"
 ## Usage
 ```bash
 streamlit run workout_generator.py
+```
