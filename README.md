@@ -19,3 +19,7 @@ The Dynamic Fitness Plan Generator is designed to create personalized workout pl
 1. Clone the repository:
    ```bash
    git clone https://github.com/sirisujala30/fitness-plan-generator.git
+
+## Configuration
+1. Replace your Fitbit API token in the code:
+2. '''TOKEN = "your_fitbit_api_token"'''
