@@ -27,6 +27,6 @@ The Dynamic Fitness Plan Generator is designed to create personalized workout pl
 2. Set up your Google Generative AI API key:
 ```os.environ["API_KEY"] = "your_google_api_key"```
 
-##Usage
+## Usage
 ```bash
 strealmit run workout_generator.py
