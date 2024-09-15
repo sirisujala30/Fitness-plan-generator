@@ -22,7 +22,8 @@ The Dynamic Fitness Plan Generator is designed to create personalized workout pl
 
 ## Configuration
 1. Replace your Fitbit API token in the code:
-```TOKEN = "your_fitbit_api_token"```
+```python
+TOKEN = "your_fitbit_api_token"
 
 2. Set up your Google Generative AI API key:
 ```os.environ["API_KEY"] = "your_google_api_key"```
