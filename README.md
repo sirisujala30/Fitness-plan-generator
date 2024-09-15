@@ -1,6 +1,6 @@
 # Fitness-workout-generator
 
-## overview: 
+## Overview: 
 The Dynamic Fitness Plan Generator is designed to create personalized workout plans using real-time data from wearable devices such as Fitbit. It dynamically adjusts the user's workout routine based on their performance data, such as steps taken, calories burned, sleep patterns, and nutrition intake. The system leverages Fitbit's API for retrieving fitness data and Google Generative AI for generating customized workout plans based on user goals, preferences, and available data.
 
 ## Features
