@@ -9,8 +9,14 @@ The Dynamic Fitness Plan Generator is designed to create personalized workout pl
 - **Customizable Plans**: Users can specify their goals (e.g., weight loss, muscle gain), workout preferences, available equipment, and dietary preferences.
 - **PDF Export**: Automatically generates a downloadable PDF of the workout plan.
 
+## Files overview
+1. fitbit_data_check.py : this script is responsible for verfiying and validating data recieved from fitbit API
+2. relevant_data_fetch.py : this scrip handles the fetching relevant real-time user fitbit data that is required for the task
+3. workout_generator.py : the cofe file that generated personalized workout plans using Gen AI
+4. Documentation.pdf : this file contains the overview, functionality, workflow and tech stack of the task. It also explains the challenges and assumptions taken.
+
 ## Prerequisites
-- Python 3.x
+- Python 3.12.5
 - Fitbit account with access token
 - Google Generative AI API key
 
