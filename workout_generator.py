@@ -10,7 +10,7 @@ from fpdf import FPDF
 
 #fitbit api token
 FITBIT_API_URL = "https://api.fitbit.com/1/user/-/"
-TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM1BMRDkiLCJzdWIiOiJDN1o0MzciLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJ3aHIgd251dCB3cHJvIHdzbGUgd3dlaSB3c29jIHdhY3Qgd3NldCB3bG9jIiwiZXhwIjoxNzI2NDcyMDA4LCJpYXQiOjE3MjY0MTEwODV9.6wfLV7uGznUKf66WqNGDtqgNzE2Yo4C2CQApF7WtGLo"
+TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyM1BMRDkiLCJzdWIiOiJDN1o0MzciLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJzY29wZXMiOiJ3aHIgd251dCB3cHJvIHdzbGUgd3dlaSB3c29jIHdhY3Qgd3NldCB3bG9jIiwiZXhwIjoxNzI2NjU4Mjk5LCJpYXQiOjE3MjY1NzE4OTl9.W2s76LNC39NteHzWXUasIz-Yyu0uBQybiZzuisZk1EI"
 #authoriation
 headers = {
     "Authorization": f"Bearer {TOKEN}"
